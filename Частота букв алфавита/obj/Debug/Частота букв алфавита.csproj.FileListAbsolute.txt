@@ -1,0 +1,10 @@
+C:\Users\DiMal\Desktop\Частота букв алфавита\Частота букв алфавита\bin\Debug\Частота букв алфавита.exe.config
+C:\Users\DiMal\Desktop\Частота букв алфавита\Частота букв алфавита\bin\Debug\Частота букв алфавита.exe
+C:\Users\DiMal\Desktop\Частота букв алфавита\Частота букв алфавита\bin\Debug\Частота букв алфавита.pdb
+C:\Users\DiMal\Desktop\Частота букв алфавита\Частота букв алфавита\obj\Debug\Частота букв алфавита.csprojAssemblyReference.cache
+C:\Users\DiMal\Desktop\Частота букв алфавита\Частота букв алфавита\obj\Debug\Частота_букв_алфавита.Form1.resources
+C:\Users\DiMal\Desktop\Частота букв алфавита\Частота букв алфавита\obj\Debug\Частота_букв_алфавита.Properties.Resources.resources
+C:\Users\DiMal\Desktop\Частота букв алфавита\Частота букв алфавита\obj\Debug\Частота букв алфавита.csproj.GenerateResource.cache
+C:\Users\DiMal\Desktop\Частота букв алфавита\Частота букв алфавита\obj\Debug\Частота букв алфавита.csproj.CoreCompileInputs.cache
+C:\Users\DiMal\Desktop\Частота букв алфавита\Частота букв алфавита\obj\Debug\Частота букв алфавита.exe
+C:\Users\DiMal\Desktop\Частота букв алфавита\Частота букв алфавита\obj\Debug\Частота букв алфавита.pdb
