@@ -22,13 +22,7 @@ namespace Частота_букв_алфавита
             string a = textBox1.Text;
             string c = textBox2.Text;
             int result = 0;
-            for (int i = 0; i < b.Length; i++)
-            {
-                if (b[i] == d[0])
-                {
-                    result += 1;
-                }
-            }
+            result = chastota(a, c, result);
             string res = Convert.ToString(result);
             label1.Text = res;
         }
